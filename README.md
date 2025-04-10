@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JohnysTech</h1>
+<h1 align="center">Hi, I'm JohnysTech</h1>
 <h3 align="center">Hi, I'm John and I am a stupid guy who likes to experiment with things and I also like going out with my friends.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnystech&label=Profile%20views&color=0e75b6&style=flat" alt="johnystech" /> </p>
