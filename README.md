@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- ⚡ Fun fact **I collaborated with Tech5G5G to translate the Fluver**
+- ⚡ Fun fact **I collaborated with Tech5G5G to translate the [Fluver](https://github.com/Tech5G5G/Fluentver)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
